@@ -1,2 +1,0 @@
-# TBB
-Total Bases Batted 
