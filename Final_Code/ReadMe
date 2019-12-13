@@ -1,0 +1,10 @@
+Files Contained within:
+BaseBall_Data_Mining.ipynb
+	- Has all our source code and Results for each section
+Batting.csv
+	-csv file that containts information about batters. This includes playerid, year id, sting, etc.
+	-look at pybaseball documentations for more info
+master.csv
+	-Similar to Batting. This containts info on Players. MLB__ID, MLB_Name, bats, throws, etc...
+TBB.ipynb
+	-Source code for our two statistics that we came up with and how they where produced.
